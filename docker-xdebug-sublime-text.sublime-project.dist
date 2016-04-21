@@ -1,0 +1,17 @@
+{
+    "folders": [{
+        "name": "Project",
+        "path": ".",
+        "follow_symlinks": true,
+    }, ],
+    "settings": {
+        "xdebug": {
+            "path_mapping": {
+                "/var/www/": "/{my}/{local}/{dir}",
+            },
+            "url": "http://localhost",
+            "port": 9000,
+            "ide_key": "xdbg",
+        }
+    },
+}
