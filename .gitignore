@@ -1,2 +1,4 @@
 docker-xdebug-sublime-text.sublime-project
 docker-xdebug-sublime-text.sublime-workspace
+
+./profiling/*
